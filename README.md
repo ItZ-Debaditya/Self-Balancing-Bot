@@ -2,8 +2,8 @@
 An Arduino controlled Self Balancing Bot
 
 ## Team Member
-Debaditya Barman
-Sanjeev R. Krishnan
+* Debaditya Barman
+* Sanjeev R. Krishnan
 
 ## Abstract
 
