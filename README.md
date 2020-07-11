@@ -1,6 +1,10 @@
 # Self-Balancing-Bot
 An Arduino controlled Self Balancing Bot
 
+# Team Member
+Debaditya Barman
+Sanjeev R. Krishnan
+
 ## Abstract
 
 The aim of this project was to make a self-balancing bot to learn about:
